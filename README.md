@@ -24,8 +24,6 @@ Some of the areas I've worked on include:
 - Translating business problems into technical requirements and product roadmaps
 - Investigating data quality issues and designing monitoring and alerting systems
 
----
-
 ## Background
 
 🎓 MSc in **Marketing Analytics** — NOVA Information Management School  (Merit Board)
@@ -35,8 +33,6 @@ Some of the areas I've worked on include:
 🌍 Based in Portugal  
 
 🗣️ English · Spanish · Portuguese
-
----
 
 ## Let's connect
 
