@@ -29,8 +29,11 @@ Some of the areas I've worked on include:
 ## Background
 
 🎓 MSc in **Marketing Analytics** — NOVA Information Management School  (Merit Board)
+
 📊 Background in digital analytics, experimentation, automation, and marketing  
+
 🌍 Based in Portugal  
+
 🗣️ English · Spanish · Portuguese
 
 ---
