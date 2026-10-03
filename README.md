@@ -1,7 +1,5 @@
 # Hi, I'm Felix 👋
 
-**Product builder working at the intersection of Data, AI, and Product.**
-
 I currently work on technical product initiatives involving **data products, analytics infrastructure, automation, experimentation, and AI workflows**.
 
 My background started in digital marketing and analytics, but over time I moved closer to building products and systems: defining problems, working with technical teams, designing workflows, validating solutions, and measuring whether what we ship actually works.
